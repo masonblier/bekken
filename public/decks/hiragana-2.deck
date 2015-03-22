@@ -1,0 +1,106 @@
+In addition to the single-syllable hiragana characters, there are special combinations that are also pronounced as a single syllable. These are made by combining a consonant with an 'i' sound and a small 'y' syllable, making a sound such as 'kyo' or 'ryu'. To type these in a romaji typing program, you omit the 'i' part of the initial consonant and type it as one syllable, your computer will make the ya/yu/yo character smaller (as in きょ) to indicate a single-syllable. If you typed 'kiyo', it would result in きよ, and would be pronounced as two seperate syllables.
+|! きゃ | きゅ | きょ
+| kya | kyu | kyo
+--
+front: きゃ
+back: kya
+--
+front: きゅ
+back: kyu
+--
+front: きょ
+back: kyo
+--
+front: ひゃ
+back: hya
+--
+front: ひゅ
+back: hyu
+--
+front: ひょ
+back: hyo
+--
+front: にゃ
+back: nya
+--
+front: にゅ
+back: nyu
+--
+front: にょ
+back: nyo
+--
+front: みゃ
+back: mya
+--
+front: みゅ
+back: myu
+--
+front: みょ
+back: myo
+--
+front: りゃ
+back: rya
+--
+front: りゅ
+back: ryu
+--
+front: りょ
+back: ryo
+--
+With the 's', 'z', and 't' rows, the 'i' consonants し (shi), じ (ji), and ち (chi) are exceptions. Since there are no other characters with these sounds, the combined hiragana is used to create sounds with these altered consonants. When typing these, you can omit the 'y', since the computer knows there is only one possibility. This also means there is no such combination for sya, zya, or tya, These sounds do not exist in Japanese.
+--
+front: しゃ
+back: sha
+--
+front: しゅ
+back: shu
+--
+front: きょ
+back: sho
+--
+front: じゃ
+back: ja
+--
+front: じゅ
+back: ju
+--
+front: じょ
+back: jo
+--
+front: ちゃ
+back: cha
+--
+front: ちゅ
+back: chu
+--
+front: ちょ
+back: cho
+--
+Another variation on hiragana is the small っ (tsu). It's not pronounced directly, but instead signifies that the consonant following it is emphasized, or held a little bit longer than usual. An example of this is in this website's name, bekken, which would put emphasis on the middle 'k' sound. In hiragana, it's written as べっけん. When typed on a romaji keyboard, you simply double the consonant you want to put the small っ in front of.
+|! っ
+| (consonant emphasis marker)
+--
+Vowels can be used next to each other. For the most part, each vowel is pronounced as its own syllable, however when spoken quickly, they can sound like entirely different sounds (such as あい resembling a long 'i' or 'eye' sound in English). Vowels can be lengthened by added more of the same sound, such as にい resulting in nii, or くう resulting in kuu. For え (e) and お (o) sounds, they are rarely extended by themselves. Rather, え is extended with い, such as けい (kei, sounds like 'kay'), and お is extended with う, such as とう (tou, sounds like 'toe').
+|! ああ | いい | うう | えい | おう
+| aa | ii | uu | ei | ou
+--
+front: あう
+back: au
+--
+front: まえ
+back: mae
+--
+front: のう
+back: nou
+--
+front: てい
+back: tei
+--
+front: あお
+back: ao
+--
+front: きょう
+back: kyou
+--
+front: ちゃい
+back: chai

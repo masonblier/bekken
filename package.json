@@ -1,0 +1,7 @@
+{
+  "name": "bekken",
+  "dependencies": {
+    "finalhandler": "^0.2.0",
+    "serve-static": "^1.6.0"
+  }
+}

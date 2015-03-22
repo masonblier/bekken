@@ -1,0 +1,173 @@
+html, body {
+}
+body {
+  background: #101010;
+  color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px/1em;
+  letter-spacing: 1pt;
+  -webkit-font-smoothing: antialiased;
+}
+
+#app {
+  position: absolute;
+  top:30px;bottom:0;left:0;right:0;
+
+  display: flex;
+  flex-direction: column;
+}
+@media (min-width: 960px) {
+  #app {
+    max-width: 1000px;
+    margin: 10px auto;
+  }
+}
+
+.section {
+  background: #181818;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  margin: 10px 0;
+}
+h1 {
+  font-size: 1.5em;
+  color: #cf923c;
+}
+h2 {
+  font-size: 1.2em;
+  color: #39ceb8;
+}
+h3 {
+  font-size: 1em;
+  color: #909090;
+}
+
+a {
+  text-decoration: none;
+  color: #39ceb8;
+}
+a:hover, a:active {
+  text-decoration: underline;
+  color: #39fea8;
+}
+
+#header {
+  min-height: 43px;
+}
+
+#navigation {
+  min-height: 38px;
+}
+
+#menu {
+  padding: 20px 100px;
+}
+.menu-table {
+  width: 100%;
+}
+.menu-table > thead > tr > th:first-child {
+  text-align: left;
+}
+.menu-table > thead > tr > th:last-child {
+  text-align: center;
+  width: 120px;
+}
+.menu-table>thead>tr>th, .menu-table>tbody>tr>td {
+  padding: 5px 7px;
+}
+.menu-deck-actions {
+  text-align: center;
+  width: 120px;
+}
+.menu-deck-actions > a {
+  display: inline-block;
+  margin: 0 4px;
+}
+
+.learn-action {
+  color: #ff9830;
+}
+.learn-action:hover {
+  color: #ffb840;
+}
+.review-action {
+  color: #ff4840;
+}
+.review-action:hover {
+  color: #ff7870;
+}
+.browse-action {
+  color: #48cf70;
+}
+.browse-action:hover {
+  color: #58ef80;
+}
+
+.card {
+  display: flex;
+  flex:1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.card > p {
+  font-size: 24px;
+  text-align: center;
+}
+.card > p.card-front {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.card-lesson {
+  padding: 10px 20px;
+}
+.card-lesson > table {
+  text-align: center;
+  margin: auto;
+  border-spacing: 15px 5px;
+}
+.card-lesson > table .large {
+  font-size: 1.5em;
+}
+.deck-results {
+  font-size: 18px;
+  text-align: center;
+}
+
+#controls {
+  text-align: center;
+  min-height: 29px;
+}
+#controls > button {
+  color: #ffffff;
+  background: #282828;
+  margin: 0 4px;
+  padding: 5px 9px;
+  min-width: 70px;
+  border: 1px solid #101010;
+  border-radius: 4px;
+  font-size: 14px;
+  outline: none;
+}
+#controls > button:hover {
+  background: #2f2f2f;
+  border-color: #141414;
+}
+#controls>button:active {
+  background: #242424;
+}
+#controls>button:focus {
+  border-color: #40afc3;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  left: 0; right: 0;
+}

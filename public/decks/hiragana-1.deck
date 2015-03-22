@@ -1,0 +1,282 @@
+Hiragana is the common phoenetic script in Japanese. Each hiragana letter represents one syllable, with some exceptions given at the end of this section. It can represent all the native sounds in Japanese.
+--
+There are five vowels used in Japanese. Unlike in English, the vowels are always pronounced the same, they are never long or short, or altered by accents. They have only one sound.
+|! あ | い | う | え | お
+| a | i | u | e | o
+--
+front: あ
+back: a (ah)
+--
+front: い
+back: i (ee)
+--
+front: う
+back: u (oo)
+--
+front: え
+back: e (eh)
+--
+front: お
+back: o (oh)
+--
+Most of the hiragana characters are made by combining a consonant sound with each vowel. The vowel part is always pronounced the same. Be careful not to get confused with the English pronounciation, using English letters to represent hiragana sounds is only an approximation.
+The next row of letters uses the consonant similar to the English letter 'k'.
+|! か | き | く | け | こ
+| ka | ki | ku | ke | ko
+--
+front: か
+back: ka (kah)
+--
+front: き
+back: ki (kee)
+--
+front: く
+back: ku (koo)
+--
+front: け
+back: ke (keh)
+--
+front: こ
+back: ko (koh)
+--
+Some characters are made with a special mark called dakuten in the top-right corner that signals a voiced pronounciation. Not all hiragana have voiced equivalents, so it's best to just memorize them as if they are a seperate character. The sounds made like the English hard-'g' is written with a dakuten variation of the hiragana 'k' row.
+|! が | ぎ | ぐ | げ | ご
+| ga | gi | gu | ge | go
+--
+front: が
+back: ga
+--
+front: ぎ
+back: gi
+--
+front: ぐ
+back: gu
+--
+front: げ
+back: ge
+--
+front: ご
+back: go
+--
+The next consonant is similar to, but not exactly like the English 's'. For beginners, it's recommended to just pronounce them as you would the English s, with the exception of し which is pronounced more like 'shi'.
+|! さ | し | す | せ | そ
+| sa | shi | su | se | so
+--
+front: さ
+back: sa
+--
+front: し
+back: shi
+--
+front: す
+back: su
+--
+front: せ
+back: se
+--
+front: そ
+back: so
+--
+The 's' row also has a voiced equivalent, for the 'z' consonant. The exception, し (shi), becomes a じ (ji).
+|! ざ | じ | ず | ぜ | ぞ
+| za | ji | zu | ze | zo
+--
+front: ざ
+back: za
+--
+front: じ
+back: ji
+--
+front: ず
+back: zu
+--
+front: ぜ
+back: ze
+--
+front: ぞ
+back: zo
+--
+Next is the 't' row. In this case, there are two exceptions. ち becomes 'chi', and つ becomes 'tsu' (as in tsunami).
+|! た | ち | つ | て | と
+| ta | chi | tsu | te | to
+--
+front: た
+back: ta
+--
+front: ち
+back: chi
+--
+front: つ
+back: tsu
+--
+front: て
+back: te
+--
+front: と
+back: to
+--
+The 't' row also has voiced equivalents, representing the 'd' sound.
+ち becomes ぢ (ji), which you may notice is the same pronounciation as じ. In some Japanese dialects, they retain a subtle difference in pronounciation, but in the Tokyo dialect they are exactly the same, so ぢ is rarely used.
+つ becomes づ (du). Although づ is usually pronounced 'dzu', some romaji typing programs require 'du' instead.
+|! だ | ぢ | づ | で | ど
+| da | ji | dzu | de | do
+--
+front: だ
+back: da
+--
+front: ぢ
+back: ji
+--
+front: づ
+back: dzu
+--
+front: で
+back: de
+--
+front: ど
+back: do
+--
+Next is the 'n' row. No exceptions!
+|! な | に | ぬ | ね | の
+| na | ni | nu | ne | no
+--
+front: な
+back: na
+--
+front: に
+back: ni
+--
+front: ぬ
+back: nu
+--
+front: ね
+back: ne
+--
+front: の
+back: no
+--
+Next is the 'h' row. There is one minor exception, ふ is usually romanized as 'fu', but pronounced somewhat between 'hu' and 'fu'. Try to make an 'f' sound without touching your teeth to your lower lip, and you should get pretty close.
+|! は | ひ | ふ | へ | ほ
+| ha | hi | fu | he | ho
+--
+front: は
+back: ha
+--
+front: ひ
+back: hi
+--
+front: ふ
+back: fu
+--
+front: へ
+back: he
+--
+front: ほ
+back: ho
+--
+The voiced equivalent of the 'h' row is the 'b' row.
+|! ば | び | ぶ | べ | ぼ
+| ba | bi | bu | be | bo
+--
+front: ば
+back: ba
+--
+front: び
+back: bi
+--
+front: ぶ
+back: bu
+--
+front: べ
+back: be
+--
+front: ぼ
+back: bo
+--
+There's a third variation of the 'h' row, which becomes the 'p' row. This is written with a handakuten, which is a small circle. This is the only row that uses this variation.
+|! ぱ | ぴ | ぷ | ぺ | ぽ
+| pa | pi | pu | pe | po
+--
+front: ぱ
+back: pa
+--
+front: ぴ
+back: pi
+--
+front: ぷ
+back: pu
+--
+front: ぺ
+back: pe
+--
+front: ぽ
+back: po
+--
+Next is the 'm' row.
+|! ま | み | む | め | も
+| ma | mi | mu | me | mo
+--
+front: ま
+back: ma
+--
+front: み
+back: mi
+--
+front: む
+back: mu
+--
+front: め
+back: me
+--
+front: も
+back: mo
+--
+Next up is the 'r' row. Don't be fooled though, it has nothing to do with the English 'r' you know and love. Instead, the Japanese 'r' is like a single flick of the 'r' you would hear in Spanish. This is known as the 'alveolar trill' to people who study languages. You might notice it sounds vaugely similar to the 'l' sounds of English. This can cause confusion when words are shifted between Japanese and English, it's something you will have to get used to in time.
+|! ら | り | る | れ | ろ
+| ra | ri | ru | re | ro
+--
+front: ら
+back: ra
+--
+front: り
+back: ri
+--
+front: る
+back: ru
+--
+front: れ
+back: re
+--
+front: ろ
+back: ro
+--
+The next row for 'y', has a few missing. Since ye and yi can be confusingly similar to e and i sounds, in modern Japanese they were removed entirely.
+|! や | ゆ | よ
+| ya | yu | yo
+--
+front: や
+back: ya
+--
+front: ゆ
+back: yu
+--
+front: よ
+back: yo
+--
+The final consonant is 'w'. Like the 'y' row, some of the sounds were removed because they caused confusion when speaking quickly.
+The を sound is special, since isn't used in words. Instead it's used as a particle to mark the direct object of an action. Also, it's pronounced 'o', but it requires 'wo' to type it on a romaji keyboard input. It's OK if you don't understand this yet, it will be explained when you learn about particles.
+|! わ | を
+| wa | wo
+--
+front: わ
+back: wa
+--
+front: を
+back: wo
+--
+There's one more hiragana letter, ん, and is usually pronounced 'nn', but can be 'mm' when it comes before an p, b, or m consonant. In Japanese, it is never used to start a word. You can think of it as the 'n' in 'tonkatsu', or the 'm' in 'sempai'. When using a romaji typing program, usually you just write 'n' or 'm' in the proper place in the word and the program will figure out what you mean, but to write it by itself, you need to type 'nn'.
+|! ん
+| nn
+--
+front: ん
+back: nn
