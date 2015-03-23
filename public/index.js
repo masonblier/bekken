@@ -18,6 +18,10 @@ App.showReviewView = function(deckId){
   App.show(new ReviewView(deckId));
 };
 
+App.showBrowseView = function(deckId){
+  App.show(new BrowseView(deckId));
+};
+
 App.show = function(view){
   if (App.currentView) {
     if ('function'===typeof App.currentView.detach) {

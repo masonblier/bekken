@@ -5,9 +5,11 @@ function ReviewView(deckId){
 ReviewView.prototype.render = function(){
   var $app = document.querySelector("#app");
   $app.innerHTML =
-    '<div id="navigation" class="section"></div>'+
-    '<div id="card" class="card section"></div>'+
-    '<div id="controls" class="section"></div>';
+    '<div class="card-viewer">'+
+      '<div id="navigation" class="section"></div>'+
+      '<div id="card" class="card section"></div>'+
+      '<div id="controls" class="section"></div>'+
+    '</div>';
 
   this.deck.load(function(){
     this.reviewCards = this.getReviewCards();
