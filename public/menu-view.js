@@ -36,11 +36,17 @@ MenuView.prototype.render = function(){
     $tbody.appendChild($row);
 
     section.decks.forEach(function(deck){
+      var deckState = Deck.getState(deck.id);
+
       var $row = document.createElement('tr');
 
       var $titleCell = document.createElement('td');
       var $titleLink = Util.createButtonLink(deck.name, function(){
-        App.showLearnView(deck.id);
+        if (deckState==="learned") {
+          App.showReviewView(deck.id);
+        } else {
+          App.showLearnView(deck.id);
+        }
       });
       $titleCell.appendChild($titleLink);
       $row.appendChild($titleCell);
@@ -48,7 +54,7 @@ MenuView.prototype.render = function(){
       var $actionsCell = document.createElement('td');
       $actionsCell.setAttribute('class', 'menu-deck-actions');
       var $learnLink = Util.createButtonLink('L', {
-        'class':'learn-action',
+        'class':(deckState==="learned" ? 'completed-action' : 'learn-action'),
         'title':'Learn'
       }, function(){
         App.showLearnView(deck.id);

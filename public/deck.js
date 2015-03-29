@@ -37,3 +37,12 @@ Deck.prototype.save = function(success, fail){
     else throw err;
   }
 };
+
+Deck.getState = function(deckId){
+  var storageKey = 'deck-state::'+deckId;
+  return window.localStorage[storageKey]||"new";
+};
+Deck.setState = function(deckId, state){
+  var storageKey = 'deck-state::'+deckId;
+  window.localStorage[storageKey] = state;
+};

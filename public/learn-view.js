@@ -70,6 +70,7 @@ LearnView.prototype.renderButtons = function(){
 };
 
 LearnView.prototype.renderResults = function(){
+  Deck.setState(this.deck.id, "learned");
   var goodCount = this.cardStates.reduce(function(total, state){
     return total+(state==='good' ? 1 : 0);
   }, 0);
@@ -80,8 +81,9 @@ LearnView.prototype.renderResults = function(){
   document.querySelector("#navigation").innerHTML = '<h3>Results</h3>';
   document.querySelector("#card").innerHTML =
     '<div class="deck-results">'+
-      '<p>'+goodCount+' good</p>'+
-      '<p>'+badCount+' bad</p>'+
+      '<p>Deck learning stage completed!</p>'+
+      //   '<p>'+goodCount+' good</p>'+
+      //   '<p>'+badCount+' bad</p>'+
     '</div>';
   document.querySelector("#controls").innerHTML = '';
 

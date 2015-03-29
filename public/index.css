@@ -94,6 +94,12 @@ a:hover, a:active {
   margin: 0 4px;
 }
 
+.completed-action {
+  color: #777777;
+}
+.completed-action:hover {
+  color: #909090;
+}
 .learn-action {
   color: #ff9830;
 }
