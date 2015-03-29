@@ -11,7 +11,12 @@ function MenuView(deckId){
     {
       name: "Introduction to Kanji",
       decks: [
-        {id:'4-days-of-the-week', name: "Days of the week"}
+        {id:'4-numbers', name: "Numbers in Japanese"},
+        {id:'5-days-of-the-week', name: "Days of the week"},
+        {id:'6-me-you-pronouns', name: "First and Second person pronouns"},
+        {id:'7-other-people', name: "Referring to other people"},
+        {id:'8-periods-of-time', name: "Periods of time"},
+        {id:'9-expressing-dates', name: "Expressing specific dates"}
       ]
     }
   ];

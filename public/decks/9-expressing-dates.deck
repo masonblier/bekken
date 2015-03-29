@@ -1,0 +1,159 @@
+To write a date in Japanese, you can format the numbers with each time period suffix. Dates in Japan are written year-month-day, either with Kanji or with - characters. More often than not, these are writen with western (arabic) numerals.
+--
+front: 2014年4月12日
+back: にせんじゅうよんねん・よんがつ・じゅうににち, April 12, 2014
+--
+Calendar years are written using the year number with the [年]{ねん} suffix.
+--
+front: 2015年
+back: にせんじゅうごねん, 2015
+--
+Another kind of year used in Japan is the era-based system, called [年号]{ねんごう} in Japanese. This is often used in ceremonies and when referring to one's year of birth. The era name changes for each new Emperor of Japan. The first year of each era is called [元年]{がんねん}. After that, each year is written as the era name followed by the year into the era, and the suffix [年]{ねん}.
+--
+front: 諸和二年
+back: しょわにねん, 2nd year of Showa era (1927)
+--
+front: 平成元年
+back: へいせいがんねん, 1st year of Heisei era (1988)
+--
+front: 平成二十七年
+back: へいせい・にじゅうなな・ねん, 27th year of Heisei era (2015)
+--
+Months in Japanese are simply the month number with [月]{がつ}.
+--
+front: 一月
+back: いちがつ, January
+--
+front: 二月
+back: にがつ, February
+--
+front: 三月
+back: さんがつ, March
+--
+front: 四月
+back: しがつ, April
+--
+front: 五月
+back: ごがつ, May
+--
+front: 六月
+back: ろくがつ, June
+--
+front: 七月
+back: しちがつ, July
+--
+front: 八月
+back: はちがつ, August
+--
+front: 九月
+back: くがつ, September
+--
+front: 十月
+back: じゅうがつ, October
+--
+front: 十一月
+back: じゅういちがつ, November
+--
+front: 十二月
+back: じゅうにがつ, December
+--
+Days of the month are a special counter and often have altered readings. It can take some memorization to get used to this.
+
+The first day of the month is an exception [1日]{ついたち}.
+Days 2-10 use the 訓読み reading plus か.
+Day 14 and 24 use a hybrid reading [十四日]{じゅう・よっか}.
+Day 20 is another exception [二十日]{はつか}.
+The rest of the days use the 音読み reading plus にち.
+--
+front: 一日
+back: ついたち , 1st
+--
+front: 二日
+back: ふつか, 2nd
+--
+front: 三日
+back: みっか, 3rd
+--
+front: 四日
+back: よっか, 4th
+--
+front: 五日
+back: いつか, 5th
+--
+front: 六日
+back: むいか, 6th
+--
+front: 七日
+back: なのか, 7th
+--
+front: 八日
+back: ようか, 8th
+--
+front: 九日
+back: ここのか, 9th
+--
+front: 十日
+back: とおか, 10th
+--
+front: 十一日
+back: じゅういちにち, 11th
+--
+front: 十二日
+back: じゅうににち, 12th
+--
+front: 十三日
+back: じゅうさんにち, 13th
+--
+front: 十四日
+back: じゅうよっか, 14th
+--
+front: 十五日
+back: じゅうごにち, 15th
+--
+front: 十六日
+back: じゅうろくにち, 16th
+--
+front: 十七日
+back: じゅうしちにち, 17th
+--
+front: 十八日
+back: じゅうはちにち, 18th
+--
+front: 十九日
+back: じゅうくにち, 19th
+--
+front: 二十日
+back: はつか, 20th
+--
+front: 二十一日
+back: にじゅういちにち, 21st
+--
+front: 二十二日
+back: にじゅうににち, 22nd
+--
+front: 二十三日
+back: にじゅうさんにち, 23rd
+--
+front: 二十四日
+back: にじゅうよっか, 24th
+--
+front: 二十五日
+back: にじゅうごにち, 25th
+--
+front: 二十六日
+back: にじゅうろくにち, 26th
+--
+front: 二十七日
+back: にじゅうしちにち, 27th
+--
+front: 二十八日
+back: にじゅうはちにち, 28th
+--
+front: 二十九日
+back: にじゅうくにち, 29th
+--
+front: 三十日
+back: さんじゅうにち, 30th
+--
+front: 三十一日
+back: さんじゅういちにち, 31st

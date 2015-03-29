@@ -1,0 +1,120 @@
+Japanese uses Kanji to express common time periods, such as seconds, minutes, days, weeks, months, and years. These kanji are found in compound words to express relative time, such as [来週]{らいしゅう} (next week), but can also be used as counters to express specific times [1月]{いちがつ} (January) or periods of time [一ヶ月]{いっかげつ} (one month of time).
+--
+front: 秒
+back: びょう, second
+--
+front: 分
+back: ふん, minute
+--
+front: 時間
+back: じかん, time, hour
+--
+front: 日
+back: にち, day
+--
+front: 週
+back: しゅう, week
+--
+front: 月
+back: げつ, month
+--
+front: 年
+back: とし, year
+--
+Relative times can be expressed by combining [先]{せん}(last/past), [今]{こん}(this/present), or [来]{らい}(next/future) with the period of time. There are some exceptions, such as 去年 (last year) using 去 instead, and pronouncation changes in 今. There are also words to describe two days/weeks/years in to the past or future.
+--
+front: 今日
+back: きょう, today
+--
+front: 昨日
+back: きのう, yesterday
+--
+front: 明日
+back: あした, tomorrow
+--
+front: 一昨日
+back: おととい, day before yesterday
+--
+front: 明後日
+back: あさって, day after tomorrow
+--
+front: 今週
+back: こんしゅう, this week
+--
+front: 先週
+back: せんしゅう, last week
+--
+front: 来週
+back: らいしゅう, next week
+--
+front: 先々週
+back: せんせんしゅう, week before last
+--
+front: 再来週
+back: さらいしゅう, week after next
+--
+front: 今月
+back: こんげつ, this month
+--
+front: 先月
+back: せんげつ, last month
+--
+front: 来月
+back: らいげつ, next month
+--
+front: 先々月
+back: せんせんげつ, month before last
+--
+front: 再来月
+back: さらいげつ, month after next
+--
+front: 今年
+back: ことし, this year
+--
+front: 去年
+back: きょねん, last year
+--
+front: 来年
+back: らいねん, next year
+--
+front: 一昨年
+back: おととし, year before last
+--
+front: 再来年
+back: さらいねん, year after next
+--
+To express a frequent repetition, you can use [毎]{まい}, equivalent to saying "every-" in English. It's not always an absolute every, just like in English, it can be used as hyperbole to describe something that happens frequently.
+--
+front: 毎日
+back: まいにち, every day daily
+--
+front: 毎週
+back: まいしゅう, every week weekly
+--
+front: 毎月
+back: まいつき, every month monthly
+--
+front: 毎年
+back: まいとし/まいねん, every year, annually
+--
+Since 日, 月, and 年 are used to express a specific point in time, they have a different form to express a period of time (such as 3 days vacation).
+
+You can use [間]{かん} suffix to express a period of time, or [前]{まえ} to express an amount of time before something occurs.
+For 月, you replace it with [ヶ月]{かげつ} to express months of time rather than a specific month. Note the pronounciation change, for months you use がつ but for a period of time you use げつ.
+--
+front: 10日間
+back: とおか・かん, 10 days of time
+--
+front: 四日前
+back: よっかまえ, 4 days before
+--
+front: 三ヶ月
+back: さんかげつ, 3 months of time
+--
+front: 十一年間
+back: 11 years of time
+--
+There's a special counter to express an overnight stay at a hotel, with the counter [泊]{はく}.
+--
+front: 二泊
+back: にぱく, two nights stay
