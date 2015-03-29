@@ -18,6 +18,14 @@ function MenuView(deckId){
         {id:'8-periods-of-time', name: "Periods of time"},
         {id:'9-expressing-dates', name: "Expressing specific dates"}
       ]
+    },
+    {
+      name: "Verb forms",
+      decks: [
+        {id:'10-common-verbs', name: "Common Verbs"},
+        {id:'11-verb-past-negative', name: "Past and negative conjugations"},
+        {id:'12-verbs-te-teiru-forms', name: "The te and te-iru forms"}
+      ]
     }
   ];
 }
