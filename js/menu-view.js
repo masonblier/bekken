@@ -3,20 +3,20 @@ function MenuView(deckId){
     {
       name: "Kana, the Japanese phonetic alphabets",
       decks: [
-        {id:'1-hiragana', name: "Hiragana"},
-        {id:'2-hiragana', name: "Compound Hiragana"},
-        {id:'3-katakana', name: "Katakana"}
+        {id:'01-hiragana', name: "Hiragana"},
+        {id:'02-hiragana', name: "Compound Hiragana"},
+        {id:'03-katakana', name: "Katakana"}
       ]
     },
     {
       name: "Introduction to Kanji",
       decks: [
-        {id:'4-numbers', name: "Numbers in Japanese"},
-        {id:'5-days-of-the-week', name: "Days of the week"},
-        {id:'6-me-you-pronouns', name: "First and Second person pronouns"},
-        {id:'7-other-people', name: "Referring to other people"},
-        {id:'8-periods-of-time', name: "Periods of time"},
-        {id:'9-expressing-dates', name: "Expressing specific dates"}
+        {id:'04-numbers', name: "Numbers in Japanese"},
+        {id:'05-days-of-the-week', name: "Days of the week"},
+        {id:'06-me-you-pronouns', name: "First and Second person pronouns"},
+        {id:'07-other-people', name: "Referring to other people"},
+        {id:'08-periods-of-time', name: "Periods of time"},
+        {id:'09-expressing-dates', name: "Expressing specific dates"}
       ]
     },
     {
