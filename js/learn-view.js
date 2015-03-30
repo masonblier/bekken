@@ -57,7 +57,7 @@ LearnView.prototype.renderButtons = function(){
   var $controls = document.querySelector("#controls");
   $controls.innerHTML = '';
   var $nextBtn = document.createElement("button");
-  $nextBtn.innerText = 'Next';
+  $nextBtn.innerHTML = 'Next';
   $nextBtn.addEventListener('click', function(e){
     this.nextCard();
   }.bind(this), false);

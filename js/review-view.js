@@ -107,7 +107,7 @@ ReviewView.prototype.renderFrontButtons = function(){
   var $controls = document.querySelector("#controls");
   $controls.innerHTML = '';
   var $nextBtn = document.createElement("button");
-  $nextBtn.innerText = 'Next';
+  $nextBtn.innerHTML = 'Next';
 
   $nextBtn.addEventListener('click', nextFn, false);
   $controls.appendChild($nextBtn);
@@ -141,11 +141,11 @@ ReviewView.prototype.renderAnswerButtons = function(){
   var $controls = document.querySelector("#controls");
   $controls.innerHTML = '';
   var $badBtn = document.createElement("button");
-  $badBtn.innerText = 'Bad';
+  $badBtn.innerHTML = 'Bad';
   var $okBtn = document.createElement("button");
-  $okBtn.innerText = 'Next';
+  $okBtn.innerHTML = 'Next';
   var $goodBtn = document.createElement("button");
-  $goodBtn.innerText = 'Good';
+  $goodBtn.innerHTML = 'Good';
 
   $badBtn.addEventListener('click', badFn, false);
   $okBtn.addEventListener('click', okFn, false);

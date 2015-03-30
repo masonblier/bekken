@@ -10,7 +10,7 @@ Util.createButtonLink = function(text, options, eventListener){
 
   var $link = document.createElement("a");
   $link.setAttribute('href', '#');
-  $link.innerText = text;
+  $link.innerHTML = text;
   $link.addEventListener('click', function(e){
     e.preventDefault();
     if ('function'===typeof eventListener) {
